@@ -81,4 +81,4 @@ I believe first we could check how the model behaves with real data and then we 
 ## Acknowledgments
 
 I would like to thank the University of Helsinki and everybody involved for making this training available, it was very interesting and answered a lot of questions I had about how the AI algorithms work under the hood. I was actually very surprised to see that many of those concepts I had seen in the past when I was studying to graduate as an electric engineer, and I could never imagine that they were applied in AI! It was also fun to remember many of those concepts!
-The image used in this work was created with Microsoft Copilot/Chat-GPT.
+- The image used in this work was created with Microsoft Copilot/Chat-GPT.
