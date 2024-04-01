@@ -55,7 +55,7 @@ print(x @ c)
 
 ## Data sources and AI methods
 
-The data used in this study was randomly generated. The data to feed the model should be collected by the athlete or someone in the athlete´s team.
+The data used in this study was randomly generated (please check the table attached to the image below for more information on how the data was summarized). The data to feed the model should be collected by the athlete or someone in the athlete´s team.
 As mentioned previously, we are executing a linear regression to identify the coefficients and their impact on Performance.
 
 In this case, and with this training data, the calculated coefficients were:
