@@ -5,7 +5,7 @@ Final project for the Building AI course - Physical Training Optimizator
 
 ## Summary
 
-The idea of this project is to identify what would be the most effective routine that would improve an athlete´s performance for a specific course/track.
+The idea of this project is to identify what would be the most effective training routine that would improve an athlete´s performance for a specific course/track.
 We will use the following data: hours of resistance training per week, hours of strenght training per week, hours of rest per week, carbohydrate ingestion per week (g/kg) and protein ingestion per week (g/kg).
 We will analyse the data and identify which factors generate the most effective performance improvement in milliseconds.
 
