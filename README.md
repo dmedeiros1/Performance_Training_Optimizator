@@ -33,7 +33,8 @@ We will then add the results, which will be the observed Performance Improvement
 Finally we will use linear regression to understand what inputs/variables impacted the Performance the most for that specific track/circuit (obtain the model´s coefficients).
 
 ```
-# input values: hours of resistance training per week,hours of strenght training per week,hours of rest per week,carbohydrate ingestion per week (g/kg),protein ingestion per week (g/kg).
+# input values x: hours of resistance training per week,hours of strenght training per week,hours of rest per week,carbohydrate ingestion per week (g/kg),protein ingestion per week (g/kg).
+# input values y: observed performance gain in milliseconds
 	
 import numpy as np
 
