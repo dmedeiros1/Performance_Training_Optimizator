@@ -1,5 +1,5 @@
 
-# Project Title
+# Performance Training Optimizator
 
 Final project for the Building AI course - Performance Training Optimizator
 
