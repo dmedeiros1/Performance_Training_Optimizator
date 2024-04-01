@@ -28,7 +28,7 @@ As mentioned previsouly, we will consider the 5 inputs/variables below:
 - carbohydrate ingestion per week (g/kg),
 - protein ingestion per week (g/kg).
 
-We will then add the results, which will be the Performance Improvement in milliseconds. The Performance Improvement is how much an athlete managed to improve his/her time after that specific training (inputs).
+We will then add the results, which will be the observed Performance Improvement in milliseconds. The Performance Improvement is how much an athlete managed to improve his/her time after that specific training (inputs).
 
 Finally we will use linear regression to understand what inputs/variables impacted the Performance the most for that specific track/circuit (obtain the model´s coefficients).
 
