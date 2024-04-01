@@ -1,7 +1,7 @@
 
 # Project Title
 
-Final project for the Building AI course - Physical Training Optimizator
+Final project for the Building AI course - Performance Training Optimizator
 
 ## Summary
 
